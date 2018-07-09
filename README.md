@@ -4,9 +4,10 @@
 
 ## Wallpaper
 
-| Name          | PNG                                                   | JPG                                                   |
-| ------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| Blurry Fedora | ![Blurry Fedora PNG](fedora%20<3/blurry%20fedora.png) | ![Blurry Fedora JPG](fedora%20<3/blurry%20fedora.jpg) |
+| Name          | PNG                                                    | JPG                                                    |
+| ------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| Digital Ocean | ![Digital Ocean PNG](digitalocean/digital%20ocean.png) | ![Digital Ocean JPG](digitalocean/digital%20ocean.jpg) |
+| Blurry Fedora | ![Blurry Fedora PNG](fedora%20<3/blurry%20fedora.png)  | ![Blurry Fedora JPG](fedora%20<3/blurry%20fedora.jpg)  |
 
 ## License
 
